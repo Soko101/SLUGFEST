@@ -1,0 +1,24 @@
+https://getbootstrap.com/docs/5.3/components/buttons/#base-class
+
+Class Material:
+    - predict.js exercises
+    - ToDoApp/public/todo.js 
+    - Git Task code
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+https://developer.mozilla.org/en-US/docs/Web/API/DOMParser/parseFromString
+
+HTML in Slime function sourced from Aiden Marlers Project 1 homefeed page
+
+Brian Lee. “Javascript Extract Strings That Match Regex from Text.” Stack Overflow, 1 Feb. 1967, stackoverflow.com/questions/64965671/javascript-extract-strings-that-match-regex-from-text.
+
+“Matching mentions”. https://chat.openai.com/share/add32056-ea36-4764-b175-73d1d6d010ba
+
+Kevin Angstadt. “Web Programming.” St. Lawrence University, Fall 2023, Lectures 15 -17, Panopto Recordings.
+
+Faizal Hussain. “How to Add and Change Font Awesome Icon.” Stack Overflow, 1 Mar.1965,stackoverflow.com/questions/53458663/how-to-add-and-change-font-awesome-icon. Accessed 26 Sep. 2023.
+
+Project 1(CSS and HTML) in copying some sections.
+
+Haverbeke Marijn. Eloquent Javascript 3rd Edition : A Modern Introduction to Programming. No Starch Press 2018. Chapter 10-11,  http://rbdigital.rbdigital.com. Accessed 11 Nov. 2023.
