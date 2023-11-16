@@ -7,6 +7,7 @@ This was a collaborative and hence each page was created by a different student,
 Below is just a summary/architecure of the feed page as an example:
 
 feedpage.js:
+
 Event Listener:
 
 1. The code begins with an event listener for the "load" event, indicating that the script will execute once the page has loaded.
