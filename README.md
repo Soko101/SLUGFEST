@@ -11,26 +11,27 @@ feedpage.js:
 Event Listener:
 
 1. The code begins with an event listener for the "load" event, indicating that the script will execute once the page has loaded.
-2. 
+   
 Fetch Data:
 
-3. The script fetches slime data from "/api/statuses/home_timeline.json" using the Fetch API.
+2. The script fetches slime data from "/api/statuses/home_timeline.json" using the Fetch API.
 Processing Slime Data:
 
-4. The fetched data is processed, and for each slime, additional information is obtained if it is a reply or a reslime. 
+3. The fetched data is processed, and for each slime, additional information is obtained if it is a reply or a reslime. 
 This information is used to create a DOM element for the slime.
+
 Asynchronous Operations:
 
-5. There are asynchronous operations using async/await and Promise.all to handle fetching additional data (like in_reply_to_status_id_str).
+4. There are asynchronous operations using async/await and Promise.all to handle fetching additional data (like in_reply_to_status_id_str).
    
 DOM Manipulation:
 
-6. Slime information is used to create DOM elements dynamically, and these elements are added to the page.
+5. Slime information is used to create DOM elements dynamically, and these elements are added to the page.
    
 Profile Picture Addition:
 
-7. The addPhoto function is called to add a profile picture to the page.
-8. 
+6. The addPhoto function is called to add a profile picture to the page.
+
 Slime Creation:
-9. The createSlime function is responsible for generating the HTML structure for each slime and appending it to the page.
+7. The createSlime function is responsible for generating the HTML structure for each slime and appending it to the page.
 
