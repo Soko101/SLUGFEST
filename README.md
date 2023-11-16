@@ -1,7 +1,10 @@
 # SLUGFEST
-Recreating my Professor remake of Twitter or X as it is now called
-This was a collaborative and hence each page was created by a different student, however I worked on the feed page and slimetrail
-Below is just a summary/architecure of the feed page as an example
+# Recreating my Professor remake of Twitter or X as it is now called.
+
+# This was a collaborative and hence each page was created by a different student, however I worked on the feed page and slimetrail.
+
+Below is just a summary/architecure of the feed page as an example:
+
 feedpage.js:
 Event Listener:
 
